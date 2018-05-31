@@ -1,0 +1,11 @@
+body {
+    background: #f0f8ff;
+}
+
+.menu {
+    list-style: none;
+}
+
+.menu li {
+    display: inline-block;
+}
